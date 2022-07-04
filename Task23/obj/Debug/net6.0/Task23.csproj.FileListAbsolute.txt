@@ -1,0 +1,15 @@
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/bin/Debug/net6.0/Task23
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/bin/Debug/net6.0/Task23.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/irinakaganovskaa/Desktop/Обучение!/С#/семинар с шарп/Сенинар 3. Методы/HW3/Task23/obj/Debug/net6.0/ref/Task23.dll
